@@ -1,0 +1,14 @@
+target/
+*.class
+*.log
+docs/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Maven wrapper (no se incluye en este proyecto; se usa Maven del sistema)
+!.mvn/wrapper/maven-wrapper.jar
